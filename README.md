@@ -1,4 +1,12 @@
 # Rockbuster Stealth Data Analysis
+
+## Table of Contents
+
+* [General info](#general-info)
+* [Technologies](#technologies)
+
+## General Info
+
 In this analysis project, a movie rental company that used to have stores around the world was facing stiff competition from streaming services such as Netflix and 
 Amazon Prime, the manaagement team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
@@ -9,7 +17,10 @@ The key questions were:
   Where are customers with a high lifetime value based?
   Do sales figures vary between geographic regions
 
-## Table of Contents
-
-* [General info](#general-info)
-* 
+## Technologies
+Project was created with:
+* SQL
+* PgAdmin4
+* Microsoft Excel
+* Microsoft Word
+* DBvisualizer
